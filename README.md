@@ -1,4 +1,4 @@
-# 🎮 Tic-Tac-Toe AI | Scalable Containerized Cloud Deployment
+## Cloud Deployment AWS Project 
 
 A production-style cloud project demonstrating the end-to-end journey of building, containerizing, scaling, and automating the deployment of an intelligent web application on AWS using modern DevOps practices.
 
