@@ -189,7 +189,6 @@ Automated build and deployment pipeline.
 
 ## 👨‍💻 Author
 
-**Abhay Chabuk**  
-Final-Year Computer Engineering Student  
+**Abhay Chabuk**    
 Aspiring Cloud & DevOps Engineer
 
