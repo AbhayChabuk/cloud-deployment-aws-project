@@ -65,7 +65,7 @@ AWS infrastructure designed for scalable application hosting.
 
 <!-- Replace the path below with the actual location of your diagram. -->
 
-![AWS Cloud Deployment Architecture](docs/architecture.png)
+![AWS Cloud Deployment Architecture](Cloud Deployment AWS Architecture Diagram.png)
 
 *Architecture illustrating the CI/CD pipeline, container registry,
 AWS infrastructure, and application request flow.*
