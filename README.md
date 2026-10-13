@@ -63,9 +63,7 @@ requirements of a cloud-hosted application.
 The architecture combines an automated delivery pipeline with
 AWS infrastructure designed for scalable application hosting.
 
-<!-- Replace the path below with the actual location of your diagram. -->
-
-![AWS Cloud Deployment Architecture](Cloud Deployment AWS Architecture Diagram.png)
+![Cloud Deployment AWS Architecture Diagram](./Cloud%20Deployment%20AWS%20Architecture%20Diagram.png)
 
 *Architecture illustrating the CI/CD pipeline, container registry,
 AWS infrastructure, and application request flow.*
